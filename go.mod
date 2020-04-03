@@ -1,4 +1,4 @@
-module github.com/a1zberg/Lab2-Arch
+module github.com/juliakott/Lab2_2_Architecture
 
 go 1.14
 
